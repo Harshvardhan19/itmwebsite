@@ -1,0 +1,44 @@
+.mop
+{
+	/*border: 2px solid red;*/
+	/*height: 500px;*/
+	margin-top: 15px;
+	/*color:#;;*/
+
+}
+.mop p{
+	color:black;
+}
+.lop
+{
+	/*border: 2px solid green;*/
+	font-family: serif;
+	/*color: white;*/
+}
+.kup
+{
+	/*background:#00ffbf;*/
+	color: green;
+	margin-top: 10px;
+	/*border-radius: 5px;*/
+	font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
+	opacity: 0.8;
+}
+.mba
+{
+	margin-top: 100px;
+	background: #2E8B57;
+}
+body
+{
+	/*background:#F8F8F8;*/
+}
+.jio
+{
+	background: #2E8B57;
+}
+#footer
+{
+	background: #2E8B57;
+}

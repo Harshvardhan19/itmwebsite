@@ -1,0 +1,76 @@
+.tapcell
+{
+/*	margin-top: 20px;
+	font-family: poppins;
+	text-decoration: underline;
+	color: maroon*/
+	font-family: serif;
+	background:#ff3333;
+	color: white;
+	opacity: 0.8;
+	margin-top: 15px;
+	border-radius: 5px;
+	text-decoration: underline;
+}
+.sec2
+{
+	height: 500px;
+	margin-top: 30px;
+	border: 2px solid green;
+}
+body
+{
+	/*s*/
+	/*background-image: linear-gradient(315deg, #feeacf 0%, #f79b73 74%);*/
+
+}
+.call
+{
+	margin-top: 250px;
+}
+
+/*NAVBAR*/
+html,body
+{
+	height: 100%;
+	width: 100%;
+	font-family: 'poppins',sans-serif;
+	color: #222;
+}
+.navbar-nav
+{
+	padding: 0.8rem;
+}
+.navbar-nav li 
+{
+	padding-right: 20px;
+}
+.nav-link
+{
+	font-size: 1.1em !important;
+}
+/*NAVBAR */
+.tok
+{
+	border: 2px solid red;
+}
+.lop
+{
+	/*background:chocolate;*/
+	margin-top: 50px;
+}
+.jok
+{
+	/*background:chocolate;*/
+}
+.mnlk
+{
+	margin-top: 270px;
+	background:#ff3333;
+	opacity: 0.8;
+}
+.lko
+{
+	background:#ff3333;
+	color: white;
+}
